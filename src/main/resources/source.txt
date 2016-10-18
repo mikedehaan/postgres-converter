@@ -1,0 +1,7 @@
+class MasterAuditCenterFile {
+    Long id;
+    String email;
+    String format;
+    String status;
+    Long userId;
+    boolean isManuallyAdded;
